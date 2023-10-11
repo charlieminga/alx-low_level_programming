@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: 'The last digit'
+ * Description: 'Positve or negative'
  *
  *
  * Return: Always 0 (Success)
